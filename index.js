@@ -57,11 +57,13 @@ function makeSound(key){
         case "6":
             var dog = new Audio("assets/Sounds/Dog.wav");
             dog.play();
+        break;
 
         case "Cat":
         case "7":
             var cat = new Audio("assets/Sounds/Cat.wav");
-            cat.play();            
+            cat.play();   
+        break;         
 
         default:
             console.log(this.innerHTML);
