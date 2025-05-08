@@ -1,0 +1,89 @@
+body{
+    text-align: center;
+    background-color:orange;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    font-size: 50px;
+    text-shadow: 2px 2px black;
+}
+
+.animal {
+    outline: none;
+    border: 10px solid #F2B28C;
+    font-size: 3rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #0e0608;
+    text-shadow: 1px 1px 2px red, -1px -1px 2px red, 1px -1px 2px red, -1px 1px 2px red;
+    border-radius: 15px;
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    text-align:center;
+    margin-top: 10px;
+    background-color: white;
+    padding-top: 120px;
+  }
+
+  .Horse{
+    background-image: url("assets/Images/Horse.png");
+    background-size: contain;  /* Ensures the image fits within the button */
+    background-repeat: no-repeat;  /* Prevents the image from repeating */
+    background-position: center;  /* Centers the image within the button */
+  }
+
+  .Cow{
+    background-image: url("assets/Images/Cow.png");
+    background-size: 100%;  
+    background-repeat: no-repeat;  
+    background-position: center;  
+  }
+
+  .Duck{
+    background-image: url("assets/Images/Duck.png");
+    background-size: 100%;  
+    background-repeat: no-repeat;  
+    background-position: center;  
+  }
+
+  .Sheep{
+    background-image: url("assets/Images/Sheep.png");
+    background-size: 100%;    
+    background-repeat: no-repeat;  
+    background-position: center;  
+  }
+
+  .Rooster{
+    background-image: url("assets/Images/Rooster.png");
+    background-size: 100%;  
+    background-repeat: no-repeat;  
+    background-position: center;  
+  }
+
+  .Dog{
+    background-image: url("assets/Images/Dog.png");
+    background-size: contain;
+    background-size: 100%;  
+    background-repeat: no-repeat;  
+    background-position: center;  
+  }
+
+  .Cat{
+    background-image: url("assets/Images/Cat.png");
+    background-size: contain;
+    background-size: 100%;  
+    background-repeat: no-repeat;  
+    background-position: center;  
+  }
+  
+
+  .pressed{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
