@@ -1,7 +1,7 @@
-# 🐾 Animals Website
+# 🎧 echoWild
 
-This project presents a simple website for children, teaching them about animal names and how they sound in nature.  
-Each animal is displayed with an image, and clicking it plays the corresponding sound, creating a fun and educational experience.
+**echoWild** is a simple interactive website for children (and nature lovers!) to explore and learn the sounds of animals and nature.  
+Click on animals to hear how they sound — it's fun, educational, and relaxing.
 
 ---
 
@@ -69,5 +69,5 @@ This site is designed for **young children** to help them learn animal names and
 
 ## 💡 Author
 
-Created with ❤️ by [Yair Elitzur](https://github.com/yairelit)
-
+Created with ❤️ by [Yair Elitzur](https://github.com/yairelit)  
+Project name: **echoWild**
