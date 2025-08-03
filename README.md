@@ -5,9 +5,28 @@ Each animal is displayed with an image, and clicking it plays the corresponding 
 
 ---
 
-## 🚀 Running the Code
+## 🚀 How to Run the Project
 
-Simply open `index.html` in any modern web browser — no installation required.
+Follow these simple steps to run the website on your computer:
+
+### 1. Download the ZIP
+
+- Click the green **"Code"** button at the top right of this repository.
+- Select **"Download ZIP"**.
+- Save the file to your computer.
+
+### 2. Extract the Files
+
+- **Important:** Do **not** open or run the project directly from inside the ZIP file.
+- Instead, **right-click** the downloaded ZIP file and choose **"Extract All..."** or use any extraction tool.
+- Extract the contents into a regular folder (e.g., `C:\Users\YourName\Documents\animals-site`).
+
+### 3. Open the Website
+
+- Go into the extracted folder.
+- Double-click the file **`index.html`**.
+- The website will open in your default browser (Chrome, Firefox, Edge, etc.).
+
 
 ---
 
