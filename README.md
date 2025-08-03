@@ -55,8 +55,10 @@ Coming soon via [GitHub Pages](https://pages.github.com/)!
 - Add more animals and sounds  
 - Improve mobile responsiveness  
 - Add background music toggle  
-- Support more languages
-
+- Support more languages  
+- Categorize animals (e.g., **Farm animals**, **Jungle animals**)  
+- Add sounds for other nature elements (e.g., **rain**, **wind**, **fire**, **water**)
+  
 ---
 
 ## 👶 Target Audience
