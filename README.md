@@ -1,6 +1,6 @@
-# 🎧 echoWild
+# 🎧 animals-sound
 
-**echoWild** is a simple interactive website for children (and nature lovers!) to explore and learn the sounds of animals and nature.  
+**animals-sound** is a simple interactive website for children (and nature lovers!) to explore and learn the sounds of animals and nature.  
 Click on animals to hear how they sound — it's fun, educational, and relaxing.
 
 ---
@@ -70,4 +70,4 @@ This site is designed for **young children** to help them learn animal names and
 ## 💡 Author
 
 Created with ❤️ by [Yair Elitzur](https://github.com/yairelit)  
-Project name: **echoWild**
+Project name: **animals-sound**
